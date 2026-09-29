@@ -94,7 +94,8 @@ const DADOS = {
   // Separados não tem Comidas nem Faxina
   separados: {
     cansados: {
-      jogos: ["Marvel Rivals", "TFT", "Ragnarok MR", "Overcooked", "We Were Here", "Jogos Puzzle", "Silent Hill", "Fortnite"],
+      // Marvel Rivals e TFT NÃO entram quando estamos cansados
+      jogos: ["Ragnarok MR", "Overcooked", "We Were Here", "Jogos Puzzle", "Silent Hill", "Fortnite"],
 
       // American Horror Story e Obsession NÃO entram quando estamos separados
       filmes: ["Friends", "Modern Family", "Hunger Games"],
