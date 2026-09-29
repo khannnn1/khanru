@@ -98,13 +98,13 @@ const DADOS = {
       jogos: ["Ragnarok MR", "Overcooked", "We Were Here", "Jogos Puzzle", "Silent Hill", "Fortnite"],
 
       // American Horror Story e Obsession NÃO entram quando estamos separados
-      filmes: ["Friends", "Modern Family", "Hunger Games"],
+      filmes: ["Friends", "Modern Family", "Hunger Games", "Masterchef", "Videos no Youtube"],
     },
 
     dispostos: {
       jogos: ["Marvel Rivals", "TFT", "Ragnarok MR", "Overcooked", "We Were Here", "Jogos Puzzle", "Silent Hill", "Fortnite"],
 
-      filmes: ["Friends", "Modern Family", "Hunger Games"],
+      filmes: ["Friends", "Modern Family", "Hunger Games", "Masterchef", "Videos no Youtube"],
     },
   },
 };
